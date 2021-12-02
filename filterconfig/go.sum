@@ -1,0 +1,8 @@
+github.com/GANGAV08/filterset/filterset v0.0.0-20211202091941-d05bbac6cfdb h1:5bDETA7/uX0tpbBEbo5N9QL9XrU1z2CpWvNCalDtN4Y=
+github.com/GANGAV08/filterset/filterset v0.0.0-20211202091941-d05bbac6cfdb/go.mod h1:4MqxPztYQXl4TJbJBYIR+k6La564u0H8zVf2wWdPPzg=
+github.com/GANGAV08/regexp/regexp v0.0.0-20211202084757-417b442942a2 h1:L+7tKg3p11Ux9nSknSrvHc9ZmOhCSBorVNcCwzkfETk=
+github.com/GANGAV08/regexp/regexp v0.0.0-20211202084757-417b442942a2/go.mod h1:uFxLiEkUksUvOUkegJD5LzYBpSUgK787dsGLJGVRFGM=
+github.com/GANGAV08/strict/strict v0.0.0-20211202090014-c224c9c521aa h1:LliarncP81JV2mqMvfuIp4hdCcBxq3PASx7vMmPk+G8=
+github.com/GANGAV08/strict/strict v0.0.0-20211202090014-c224c9c521aa/go.mod h1:CC5w2T+bHcSab9tV8aosahqYJlNtrfS90RtyBLzI4IA=
+github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da h1:oI5xCqsCo564l8iNU+DwB5epxmsaqB+rhGL0m5jtYqE=
+github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da/go.mod h1:cIg4eruTrX1D+g88fzRXU5OdNfaM+9IcxsU14FzY7Hc=
