@@ -2,9 +2,14 @@ package filterconfig
 
 import (
 	"errors"
+	"fmt"
 
 	"github.com/GANGAV08/filterset/filterset"
 )
+
+func SayHello() {
+	fmt.Println("Hello Go!")
+}
 
 type MatchConfig struct {
 	Include *MatchProperties `mapstructure:"include"`
